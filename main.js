@@ -4,3 +4,8 @@ document.addEventListener("DOMContentLoaded", function () {
         el.classList.add('active');
     });
 });
+
+
+
+// transition of pages
+
